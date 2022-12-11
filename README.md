@@ -1,2 +1,3 @@
-# This is my first projet
+# This is my first proje
 # this is the second line
+# thank you
